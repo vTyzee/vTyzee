@@ -1,0 +1,21 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

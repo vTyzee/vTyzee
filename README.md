@@ -1,4 +1,4 @@
-## 👋 Hi, I'm vTyzee!
+## 👋 Sup, I'm vTyzee!
 
 ### 📊 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vTyzee&show_icons=true&theme=radical)

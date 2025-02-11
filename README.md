@@ -12,5 +12,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🐍 Contribution Snake:
-![Snake animation](https://github.com/vTyzee/vTyzee/blob/output/github-contribution-grid-snake.svg)
+### 😎 Contribution Status:
+[🔥 Check my contributions 🔥](https://github.com/vTyzee)
+
+### 😂 Random Meme:
+![Meme](https://random-memer.herokuapp.com/)
+
+> "Keep coding and breaking limits! 🚀"
